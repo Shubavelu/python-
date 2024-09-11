@@ -1,3 +1,4 @@
-a=3
-b=5
-print(a*b)
+revenue = 98456
+costs = 45000
+profit = revenue - costs
+print(profit)
